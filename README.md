@@ -50,7 +50,7 @@ JulsFotografia/
 
 ## Publicación
 
-El sitio está publicado en GitHub Pages y puede ser visitado en la siguiente URL: [Juls Fotografía](https://github.com/julianamartinezs/JulsFotografia).
+El sitio está publicado en GitHub Pages y puede ser visitado en la siguiente URL: [Juls Fotografía](https://julianamartinezs.github.io/).
 
 ## Agradecimientos
 
